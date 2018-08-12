@@ -1,0 +1,126 @@
+</head>
+
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2HBVQ"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+    
+    <div id="oc-wrapper" class="">
+         <header id="oc-header" class="oc-header oh-theme-black">
+    <span style="display: none;">
+        <svg xmlns="http://www.w3.org/2000/svg"><symbol id="oppo-logo-common"viewBox="0 0 415 67"><path d="M48.9.3C22.1.3.3 11.2.3 24.5s21.8 24.2 48.6 24.2 48.6-10.8 48.6-24.2S75.8.3 48.9.3zm-4.7 41.4c-17.9 0-32.4-7.8-32.4-17.5S26.3 6.7 44.2 6.7s32.4 7.8 32.4 17.5-14.5 17.5-32.4 17.5zM366.1.3c-26.9 0-48.6 10.8-48.6 24.2s21.8 24.2 48.6 24.2 48.6-10.8 48.6-24.2S392.9.3 366.1.3zm-4.8 41.4c-17.9 0-32.4-7.8-32.4-17.5s14.5-17.5 32.4-17.5 32.4 7.8 32.4 17.5-14.4 17.5-32.4 17.5zM156.1.3c-8.3 0-16.7 1-22.7 2.9v6.6c5.8-2.1 11.9-3.1 18-3 17.9 0 32.3 7.8 32.3 17.5s-14.5 17.5-32.4 17.5c-12.6 0-23.9-3.9-28.9-9.6V1.7h-18v65h18V42c9 4.1 20.5 6.7 33.5 6.7 26.8 0 48.7-10.8 48.7-24.2S182.9.3 156.1.3zM262.6.3c-7.8 0-15.6.9-23.2 2.9v6.6c6-2 12.2-3 18.5-3 17.9 0 32.5 7.8 32.5 17.5S276 41.7 258.1 41.7c-12.6 0-23.7-3.9-28.7-9.6V1.7h-18v65h17.8V42.3c8.7 4.1 20.5 6.6 33.6 6.6 26.8 0 48.5-10.9 48.5-24.3S289.4.3 262.6.3z"/></symbol></svg>
+    </span>
+    <nav class="oh-nav">
+        <section class="oh-nav-menu" data-trigger="open:navList@mobile">
+            <a class="nav-menu"><b><em></em></b></a>
+        </section>
+        <section class="oh-nav-logo">
+            <a href="/eg/index.html" class="nav-logo">
+                <h1>
+                    <svg viewBox="0 0 415 67">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#oppo-logo-common"></use>
+                    </svg>
+                </h1>
+            </a>
+        </section>
+        <section class="oh-navlist-wrapper">
+            <ul class="oh-nav-list">
+                                <li class="oh-nav-item ">
+                    <a href="/eg/index.html" class="oh-navitem-link" target="_self">الرئيسية</a> 
+                                    </li>
+                                <li class="oh-nav-item  oh-item-products ">
+                    <a href="/eg/smartphones/" class="oh-navitem-link" target="_self">المنتجات</a> 
+                                        <b class="oh-navitem-link-arrow"><img src="https://assorted.downloads.oppo.com/static/archives/images/en/svg/arrow.svg"></b>
+                    <aside id="oh-navpopup-products" class="oh-navpopup-6">
+                        <section class="oh-navpro-content">
+                            <section class="oh-navpro-wrapper">
+                                <figure class="oh-navpro-cover _queue ocover-theme-white">
+                                                                        <a href="/eg/smartphone-f7" >
+                                        <picture class="img">
+                                            <!--[if IE 9]><video style="display: none"><![endif]-->
+                                            <source data-srcset="//assorted.downloads.oppo.com/static/archives/images/eg/F7(1).jpg" media="md" />
+                                            <!--[if IE 9]></video><![endif]-->
+                                            <img data-src="//assorted.downloads.oppo.com/static/archives/images/eg/F7.jpg" class="lazyload" />
+                                        </picture>
+                                    </a>
+                                                                    </figure>
+                                <section class="oh-navpro-list">
+                                    <ul class="oc-row">
+                                                                                    <li class="_queue col-4 col-md-12">
+                                            <a href="/eg/smartphone-f7" data-ant="bottom-top">
+                                                <figure>
+                                                    <img data-src="//assorted.downloads.oppo.com/static/archives/images/eg/F7-1.png" class="lazyload _img1">
+                                                    <i class="_img2"><img data-src="" class="lazyload"></i>
+                                                </figure>
+                                                <h3>F7</h3>
+                                            </a>
+                                        </li>
+                                                                                    <li class="_queue col-4 col-md-12">
+                                            <a href="/eg/smartphone-f7_youth" data-ant="bottom-top">
+                                                <figure>
+                                                    <img data-src="//assorted.downloads.oppo.com/static/archives/images/eg/F7-Youth-1.png" class="lazyload _img1">
+                                                    <i class="_img2"><img data-src="//assorted.downloads.oppo.com/static/archives/images/eg/F7-Youth-1(1).png" class="lazyload"></i>
+                                                </figure>
+                                                <h3>F7 Youth</h3>
+                                            </a>
+                                        </li>
+                                                                                    <li class="_queue col-4 col-md-12">
+                                            <a href="/eg/smartphone-a83_2018" data-ant="bottom-top">
+                                                <figure>
+                                                    <img data-src="//assorted.downloads.oppo.com/static/archives/images/eg/A83-1.png" class="lazyload _img1">
+                                                    <i class="_img2"><img data-src="" class="lazyload"></i>
+                                                </figure>
+                                                <h3>A83 (2018)</h3>
+                                            </a>
+                                        </li>
+                                                                                    <li class="_queue col-4 col-md-12">
+                                            <a href="/eg/smartphone-f5" data-ant="bottom-top">
+                                                <figure>
+                                                    <img data-src="//assorted.downloads.oppo.com/static/archives/images/eg/F5-1.png" class="lazyload _img1">
+                                                    <i class="_img2"><img data-src="//assorted.downloads.oppo.com/static/archives/images/eg/F5-1.png" class="lazyload"></i>
+                                                </figure>
+                                                <h3>F5</h3>
+                                            </a>
+                                        </li>
+                                                                            </ul>
+                                </section>
+                            </section>
+                        </section>
+                    </aside>
+                                    </li>
+                                <li class="oh-nav-item ">
+                    <a href="/eg/coloros/" class="oh-navitem-link" target="_self">واجهة تشغيل Color OS </a> 
+                                    </li>
+                                <li class="oh-nav-item ">
+                    <a href="/eg/about-us/" class="oh-navitem-link" target="_self">حول  OPPO </a> 
+                                    </li>
+                                <li class="oh-nav-item ">
+                    <a href="https://oppo-eg.custhelp.com/" class="oh-navitem-link" target="_self">الدعم</a> 
+                                    </li>
+                            </ul>
+        </section>
+    </nav>
+</header>                         <section id="oc-container">
+        <section id="home">
+    <section class="home-banner">
+                <div class="banner-item">
+            <a href="/eg/smartphone-f7"  target="_blank" >
+                <picture>
+                    <!--[if IE 9]><video style="display: none"><![endif]-->
+                    <source data-srcset="//assorted.downloads.oppo.com/static/archives/images/eg/banner-mobile-r5.jpg" media="md" />
+                    <!--[if IE 9]></video><![endif]-->
+                    <img data-src="//assorted.downloads.oppo.com/static/archives/images/eg/banner-desktop-r5.jpg" class="lazyload" alt="" />
+                </picture>
+            </a>
+        </div>
+                <div class="banner-item">
+            <a href="/eg/smartphone-f7_youth"  target="_blank" >
+                <picture>
+                    <!--[if IE 9]><video style="display: none"><![endif]-->
+                    <source data-srcset="//assorted.downloads.oppo.com/static/archives/images/eg/F7-Youth(6).jpg" media="md" />
+                    <!--[if IE 9]></video><![endif]-->
+                    <img data-src="//assorted.downloads.oppo.com/static/archives/images/eg/F7-Youth(5).jpg" class="lazyload" alt="" />
+                </picture>
+            </a>
+        </div>
+                <div class="banner-item">
+            <a href="/eg/smartphone-a83_2018"  target="_blank" >
